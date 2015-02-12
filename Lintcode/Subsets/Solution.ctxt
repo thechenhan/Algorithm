@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=S
+comment0.target=subsets(java.util.ArrayList)
+comment0.text=\n\ @param\ S\:\ A\ set\ of\ numbers.\n\ @return\:\ A\ list\ of\ lists.\ All\ valid\ subsets.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
