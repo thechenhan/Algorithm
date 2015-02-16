@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=dict
+comment0.target=int\ getMaxLength(java.util.Set)
+comment1.params=s\ dict
+comment1.target=boolean\ wordSegmentation(java.lang.String,\ java.util.Set)
+numComments=2

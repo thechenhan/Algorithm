@@ -1,17 +1,17 @@
 #BlueJ package file
 package.editor.height=400
 package.editor.width=560
-package.editor.x=834
-package.editor.y=422
+package.editor.x=422
+package.editor.y=23
 package.numDependencies=0
 package.numTargets=1
 package.showExtends=true
 package.showUses=true
 project.charset=UTF-8
-target1.editor.height=700
-target1.editor.width=900
-target1.editor.x=111
-target1.editor.y=266
+target1.editor.height=477
+target1.editor.width=831
+target1.editor.x=266
+target1.editor.y=65
 target1.height=50
 target1.name=Solution
 target1.naviview.expanded=true
