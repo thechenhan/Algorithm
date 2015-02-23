@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Solution()
+comment1.params=element
+comment1.target=void\ push(int)
+comment2.params=
+comment2.target=int\ pop()
+comment3.params=
+comment3.target=int\ top()
+numComments=4
