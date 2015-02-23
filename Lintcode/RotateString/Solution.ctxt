@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=A\ offset
+comment0.target=char[]\ rotateString(char[],\ int)
+comment0.text=\n\ param\ A\:\ A\ string\n\ param\ offset\:\ Rotate\ string\ with\ offset.\n\ return\:\ Rotated\ string.\n
+numComments=1
