@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=node
+comment0.target=UndirectedGraphNode\ cloneGraph(UndirectedGraphNode)
+comment0.text=\n\ @param\ node\:\ A\ undirected\ graph\ node\n\ @return\:\ A\ undirected\ graph\ node\n
+numComments=1
