@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=a\ target
+comment0.target=int\ searchInsert(int[],\ int)
+comment0.text=\ \n\ param\ A\ \:\ an\ integer\ sorted\ array\n\ param\ target\ \:\ \ an\ integer\ to\ be\ inserted\n\ return\ \:\ an\ integer\n
+numComments=1
