@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=num\ target
+comment0.target=combinationSum2(int[],\ int)
+comment0.text=\n\ @param\ num\:\ Given\ the\ candidate\ numbers\n\ @param\ target\:\ Given\ the\ target\ number\n\ @return\:\ All\ the\ combinations\ that\ sum\ to\ target\n
+numComments=1
