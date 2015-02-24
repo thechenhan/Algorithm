@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=m\ target
+comment0.target=int\ searchMatrix(int[][],\ int)
+comment0.text=\n\ @param\ matrix\:\ A\ list\ of\ lists\ of\ integers\n\ @param\:\ A\ number\ you\ want\ to\ search\ in\ the\ matrix\n\ @return\:\ An\ integer\ indicate\ the\ occurrence\ of\ target\ in\ the\ given\ matrix\n
+numComments=1
