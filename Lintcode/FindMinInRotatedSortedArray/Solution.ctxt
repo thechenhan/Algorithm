@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=int\ findMin(int[])
+comment0.text=\n\ @param\ num\:\ a\ rotated\ sorted\ array\n\ @return\:\ the\ minimum\ number\ in\ the\ array\n
+numComments=1

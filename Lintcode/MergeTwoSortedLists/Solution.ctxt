@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=l1\ l2
+comment0.target=ListNode\ mergeTwoLists(ListNode,\ ListNode)
+comment0.text=\n\ @param\ ListNode\ l1\ is\ the\ head\ of\ the\ linked\ list\n\ @param\ ListNode\ l2\ is\ the\ head\ of\ the\ linked\ list\n\ @return\:\ ListNode\ head\ of\ linked\ list\n
+numComments=1

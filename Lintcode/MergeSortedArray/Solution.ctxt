@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=A\ B
+comment0.target=java.util.ArrayList\ mergeSortedArray(java.util.ArrayList,\ java.util.ArrayList)
+comment0.text=\n\ @param\ A\ and\ B\:\ sorted\ integer\ array\ A\ and\ B.\n\ @return\:\ A\ new\ sorted\ integer\ array\n
+numComments=1

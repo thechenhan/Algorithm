@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=int\ removeDuplicates(int[])
+comment0.text=\n\ @param\ A\:\ a\ array\ of\ integers\n\ @return\ \:\ return\ an\ integer\n
+numComments=1

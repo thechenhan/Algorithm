@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=int\ findPeak(int[])
+comment0.text=\n\ @param\ A\:\ An\ integers\ array.\n\ @return\:\ return\ any\ of\ peek\ positions.\n
+numComments=1

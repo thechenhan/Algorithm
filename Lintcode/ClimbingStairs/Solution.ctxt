@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ climbStairs(int)
+comment0.text=\n\ @param\ n\:\ An\ integer\n\ @return\:\ An\ integer\n
+numComments=1
