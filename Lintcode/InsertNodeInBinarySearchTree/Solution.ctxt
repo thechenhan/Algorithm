@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=root\ node
+comment0.target=TreeNode\ insertNode(TreeNode,\ TreeNode)
+comment0.text=\n\ @param\ root\:\ The\ root\ of\ the\ binary\ search\ tree.\n\ @param\ node\:\ insert\ this\ node\ into\ the\ binary\ search\ tree\n\ @return\:\ The\ root\ of\ the\ new\ binary\ search\ tree.\n
+numComments=1

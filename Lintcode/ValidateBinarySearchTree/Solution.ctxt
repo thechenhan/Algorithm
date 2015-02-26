@@ -1,2 +1,5 @@
 #BlueJ class context
-numComments=0
+comment0.params=root
+comment0.target=boolean\ isValidBST(TreeNode)
+comment0.text=\n\ @param\ root\:\ The\ root\ of\ binary\ tree.\n\ @return\:\ True\ if\ the\ binary\ tree\ is\ BST,\ or\ false\n
+numComments=1
