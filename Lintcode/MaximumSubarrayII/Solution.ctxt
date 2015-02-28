@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=nums
+comment0.target=int\ maxTwoSubArrays(java.util.ArrayList)
+comment0.text=\n\ @param\ nums\:\ A\ list\ of\ integers\n\ @return\:\ An\ integer\ denotes\ the\ sum\ of\ max\ two\ non-overlapping\ subarrays\n
+numComments=1

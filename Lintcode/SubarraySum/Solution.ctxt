@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=nums
+comment0.target=java.util.ArrayList\ subarraySum(int[])
+comment0.text=\n\ @param\ nums\:\ A\ list\ of\ integers\n\ @return\:\ A\ list\ of\ integers\ includes\ the\ index\ of\ the\ first\ number\ \n\ \ \ \ \ \ \ \ \ \ and\ the\ index\ of\ the\ last\ number\n
+numComments=1

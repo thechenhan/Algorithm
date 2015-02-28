@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=head
+comment0.target=boolean\ hasCycle(ListNode)
+comment0.text=\n\ @param\ head\:\ The\ first\ node\ of\ linked\ list.\n\ @return\:\ True\ if\ it\ has\ a\ cycle,\ or\ false\n
+numComments=1

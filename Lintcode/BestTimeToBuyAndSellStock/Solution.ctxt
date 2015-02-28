@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=prices
+comment0.target=int\ maxProfit(int[])
+comment0.text=\n\ @param\ prices\:\ Given\ an\ integer\ array\n\ @return\:\ Maximum\ profit\n
+numComments=1
