@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=numbers\ target
+comment0.target=int[]\ twoSum(int[],\ int)
+comment0.text=\n\ @param\ numbers\ \:\ An\ array\ of\ Integer\n\ @param\ target\ \:\ target\ \=\ numbers[index1]\ +\ numbers[index2]\n\ @return\ \:\ [index1\ +\ 1,\ index2\ +\ 1]\ (index1\ <\ index2)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
