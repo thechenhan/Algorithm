@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=A
+comment0.target=int[]\ rerange(int[])
+comment0.text=\n\ @param\ A\:\ An\ integer\ array.\n\ @return\ an\ integer\ array\n
+numComments=1
