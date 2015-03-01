@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=a\ b\ n
+comment0.target=long\ fastPower(int,\ int,\ int)
+comment0.text=\n\ @param\ a,\ b,\ n\:\ 32bit\ integers\n\ @return\:\ An\ integer\n
+numComments=1

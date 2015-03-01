@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=numbers
+comment0.target=threeSum(int[])
+comment0.text=\n\ @param\ numbers\ \:\ Give\ an\ array\ numbers\ of\ n\ integer\n\ @return\ \:\ Find\ all\ unique\ triplets\ in\ the\ array\ which\ gives\ the\ sum\ of\ zero.\n
+numComments=1
