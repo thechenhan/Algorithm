@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nums
+comment0.target=int\ majorityNumber(java.util.ArrayList)
+comment0.text=\n\ @param\ nums\:\ A\ list\ of\ integers\n\ @return\:\ The\ majority\ number\ that\ occurs\ more\ than\ 1/3\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

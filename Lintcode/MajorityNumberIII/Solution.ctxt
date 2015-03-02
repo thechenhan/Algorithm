@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=nums\ k
+comment0.target=int\ majorityNumber(java.util.ArrayList,\ int)
+comment0.text=\n\ @param\ nums\:\ A\ list\ of\ integers\n\ @param\ k\:\ As\ described\n\ @return\:\ The\ majority\ number\n
+numComments=1

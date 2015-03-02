@@ -6,6 +6,7 @@ public class HashTableTesting{
         HashMap<Integer, String> countMap = new HashMap<Integer, String>();
         int a = 1;
         countMap.put(a, "1");
+        countMap.get(1);
         for (Map.Entry<Integer, String> entry : countMap.entrySet()) {
             System.out.println("Key = " + entry.getKey() + " Values = " + entry.getValue());
         }
